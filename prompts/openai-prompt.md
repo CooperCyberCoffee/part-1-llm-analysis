@@ -10,7 +10,7 @@ Format: IOC Type | Value | Confidence Level | Relevance to Coffee Retail
 2. MITRE ATT&CK MAPPING
 
 Map observed TTPs to MITRE ATT&CK framework
-Format: Technique ID | Technique Name | Description | Business Impact for BrewMaster
+Format: Technique ID | Technique Name | Description | Business Impact for Cooper Cyber Coffee Company
 
 3. CAMPAIGN ATTRIBUTION ASSESSMENT
 
@@ -21,7 +21,7 @@ Historical targeting of similar retail businesses
 4. EXECUTIVE RISK SUMMARY
 
 Business impact assessment in non-technical language
-Potential financial/operational consequences for BrewMaster
+Potential financial/operational consequences for Cooper Cyber Coffee Company
 Timeline of potential business disruption
 
 5. DEFENSIVE RECOMMENDATIONS
