@@ -1,6 +1,6 @@
-I need you to role-play as a threat intelligence consultant advising BrewMaster Coffee Company. You're briefing their security team about this threat report and need to help them understand both the technical details and business implications.
+I need you to role-play as a threat intelligence consultant advising Cooper Cyber Coffee Company. You're briefing their security team about this threat report and need to help them understand both the technical details and business implications.
 
-Please analyze the attached threat intelligence report and provide the following assessment for BrewMaster Coffee Company:
+Please analyze the attached threat intelligence report and provide the following assessment for Cooper Cyber Coffee Company:
 1. IOC EXTRACTION & CATEGORIZATION
 
 List all indicators of compromise with categorization
