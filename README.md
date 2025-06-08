@@ -117,7 +117,7 @@ GitHub. https://github.com/CooperCyberCoffee
 
 ## 🤝 Contributing
 
-Interested in collaborating? Email me at coopercybercoffee@gmail.com
+Interested in collaborating? Email me at matt@coopercybercoffee.com
 
 - Suggest new test scenarios
 - Contribute additional LLM evaluations  
