@@ -100,3 +100,34 @@ This repository documents a systematic evaluation of Large Language Models (LLMs
 
 - **LinkedIn Series:** [AI Threat Intelligence Series](https://linkedin.com/in/matthew-hopkins)
 - **Technical Blog:** [Medium/@coopercybercoffee](https://medium.com/@coopercybercoffee)
+
+---
+
+## 📄 License & Usage
+
+This repository is public for educational and research purposes. The methodology can be replicated for your own AI evaluation projects.
+
+**Attribution:** Please cite this work if you build upon it:
+```
+Hopkins, M. (2025). "Cooper Cyber Coffee: AI Threat Intelligence Series." 
+GitHub. https://github.com/CooperCyberCoffee
+```
+
+---
+
+## 🤝 Contributing
+
+Interested in collaborating? Email me at coopercybercoffee@gmail.com
+
+- Suggest new test scenarios
+- Contribute additional LLM evaluations  
+- Share your own AI threat intelligence experiments
+- Improve the methodology framework
+
+---
+
+## 📞 Contact
+
+**Matthew Hopkins**  
+Email: coopercybercoffee@gmail.com
+LinkedIn: [matthew-hopkins](https://linkedin.com/in/matthew-hopkins)
