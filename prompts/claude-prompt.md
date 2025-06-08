@@ -1,6 +1,7 @@
 I need you to role-play as a threat intelligence consultant advising Cooper Cyber Coffee Company. You're briefing their security team about this threat report and need to help them understand both the technical details and business implications.
 
 Please analyze the attached threat intelligence report and provide the following assessment for Cooper Cyber Coffee Company:
+
 1. IOC EXTRACTION & CATEGORIZATION
 
 List all indicators of compromise with categorization
@@ -9,7 +10,7 @@ Format: IOC Type | Value | Confidence Level | Relevance to Coffee Retail
 2. MITRE ATT&CK MAPPING
 
 Map observed TTPs to MITRE ATT&CK framework
-Format: Technique ID | Technique Name | Description | Business Impact for BrewMaster
+Format: Technique ID | Technique Name | Description | Business Impact for Cooper Cyber Coffee Company
 
 3. CAMPAIGN ATTRIBUTION ASSESSMENT
 
@@ -20,7 +21,7 @@ Historical targeting of similar retail businesses
 4. EXECUTIVE RISK SUMMARY
 
 Business impact assessment in non-technical language
-Potential financial/operational consequences for BrewMaster
+Potential financial/operational consequences for Cooper Cyber Coffee Company
 Timeline of potential business disruption
 
 5. DEFENSIVE RECOMMENDATIONS
