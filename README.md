@@ -99,4 +99,4 @@ This repository documents a systematic evaluation of Large Language Models (LLMs
 ## 🔗 Related Content
 
 - **LinkedIn Series:** [AI Threat Intelligence Series](https://linkedin.com/in/matthew-hopkins)
-- **Technical Blog:** [Medium/@matthew-hopkins-security](https://medium.com/@coopercybercoffee)
+- **Technical Blog:** [Medium/@coopercybercoffee](https://medium.com/@coopercybercoffee)
